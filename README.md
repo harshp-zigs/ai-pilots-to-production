@@ -2,10 +2,7 @@
 
 > A practical playbook for business leaders who want AI experiments to become reliable, measurable business capabilities.
 
-![Topic](https://img.shields.io/badge/Topic-AI%20Strategy-blue)
-![Focus](https://img.shields.io/badge/Focus-Pilot%20to%20Production-green)
-![Audience](https://img.shields.io/badge/Audience-Business%20Leaders-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Why AI projects fail to scale](why-ai-projects-fail-to-scale.jpg)
 
 ---
 
