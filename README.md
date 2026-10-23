@@ -131,13 +131,17 @@ Avoid relying on a single number. Combine measures across three levels:
 ## FAQ
 
 **Why do AI pilot projects fail to scale?**
+
 Common reasons include unclear business ownership, unreliable data, underestimated costs, difficult integrations, insufficient governance, and weak employee adoption.
 
 **Should every successful AI experiment be deployed?**
+
 No. A successful experiment may still lack a credible business case or require too much investment to operate reliably.
 
 **What should we measure during an AI pilot?**
+
 Task completion time, error rates, operating costs, output quality, customer satisfaction, employee adoption, and the amount of human correction required, all compared with a baseline.
 
 **When should a business bring in AI consulting support?**
+
 When internal teams need help prioritizing use cases, designing experiments, building a business case, planning integrations, or establishing governance and a roadmap.
