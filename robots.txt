@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/ai-pilots-to-production/sitemap.xml
